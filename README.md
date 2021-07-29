@@ -4,7 +4,7 @@
 The project goal was to use MBTA bus data to show the stops between Harvard and MIT using mapbox, which allows the creation and display of maps on a web page.  
 
 ## How to run
-Download all the files to your computer in the same file. Drag and drop the index.html file to a blank web browser. 
+By selecting the "Show stops between MIT and Harvard" button on the screen you will begin to see a marker moving along the bus routes.
 
 ## Roadmap of future imporovments
 At the present time there are not plans to add future improvments
